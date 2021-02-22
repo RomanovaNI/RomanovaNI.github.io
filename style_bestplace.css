@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bad+Script&family=Caveat:wght@500&family=DotGothic16&family=Indie+Flower&family=Nothing+You+Could+Do&family=Pacifico&family=Rajdhani:wght@300&family=RocknRoll+One&display=swap');
+
+body{
+    background-color: azure;
+}
+
+.main{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#mainpic {
+    display:block;
+margin:auto;
+width: 500px;
+height: 150px;
+border-radius: 30%;
+border:solid 5px;
+padding: 5px;
+    border-color:  rgba(228, 203, 142, 0.89);
+}
+.paragragh1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+h3{
+    font-family:  'Indie Flower', cursive;
+    color: rgba(228, 203, 142, 0.89);
+}
+
+.nature{
+    font-family:   'Bad Script', cursive;
+    
+}
+
+.food {
+    font-family:  'Architects Daughter', cursive;
+}
+
+.sport {
+    font-family:   'Bad Script', cursive;
+}
+
+img{
+    width: 150px;
+    border-radius: 10%;
+    border:solid 1px;
+    border-color: rgba(228, 203, 142, 0.89);
+    
+    margin: 0 10px 0 0;
+}
+h1 { 
+    text-align: center;
+    font-family: 'Nothing You Could Do', cursive;
+    color: rgba(228, 203, 142, 0.89);
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    }
+   
+  footer{
+      font-family:  'DotGothic16', sans-serif;
+  }
+
+    .content{
+        background-color;
+        width: 60%;
+        
+        border-radius: 10px;
+        padding: 0 15px;
+        margin: 0 0 0 0;
+        
+       
+    }
+    aside{
+        width: 20%;
+    }
+    .site-menu{
+
+        background-color: rgb(231, 241, 228);
+        border: 1px solid  rgba(228, 203, 142, 0.89);
+        border-radius: 10px;
+        padding: 0 15px;
+        margin: 0 auto 10px auto;
+   
+    }
+    li{
+        color: darkgrey;
+    }
+   a{
+        color: darkgrey;
+    }
+    #bear{
+        width: 100px;
+    border-radius: 10%;
+    border:solid 1px;
+    border-color: rgba(228, 203, 142, 0.89);
+    }
+    
+  
+    
